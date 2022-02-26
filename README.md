@@ -44,4 +44,9 @@
 
 ![クリエイト３](https://user-images.githubusercontent.com/98724087/153004891-1fbd600e-f41b-48e5-8b5e-75d331c77a71.png)
 
+<br>
+
+## ⭐️  特徴
+- no story board
+- MVVM
 
